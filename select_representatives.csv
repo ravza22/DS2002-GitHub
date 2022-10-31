@@ -1,0 +1,78 @@
+,disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,type,amount,representative,district,cap_gains_over_200_usd
+535,2020,09/03/2020,2020-08-07,self,FB,"Facebook, Inc. - Class A",sale_full,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+3067,2021,04/09/2021,2021-03-19,self,MSFT,Microsoft Corporation - Exercised 150 call options (15K shares) expiring 3/19/2021 @ $130,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+3068,2021,04/09/2021,2021-03-19,self,MSFT,Microsoft Corporation - Exercised 100 call options (10K shares) expiring 3/19/2021 @ $140,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+3069,2021,04/09/2021,2021-03-10,self,RBLX,Roblox Corporation - purchase 10K shares,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+3470,2021,03/09/2021,2021-02-18,self,AB,"AllianceBerstein Holding LP. Purchased 15,000 shares.",purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+3471,2021,03/09/2021,2021-02-23,self,AB,"AllianceBerstein Holding LP. Purchased 25,000 shares.",purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+3823,2020,07/20/2020,2020-06-24,self,AXP,American Express Company,purchase,"$100,001 - $250,000",Hon. Nancy Pelosi,CA12,False
+3824,2020,07/20/2020,2020-06-18,self,AAPL,Apple Inc.,sale_full,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+3825,2020,07/20/2020,2020-06-18,self,NFLX,"Netflix, Inc.",purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+3826,2020,07/20/2020,2020-06-12,self,PYPL,"PayPal Holdings, Inc.",purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+3827,2020,07/20/2020,2020-06-12,self,PYPL,"PayPal Holdings, Inc.",purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+3828,2020,07/20/2020,2020-06-24,self,PYPL,"PayPal Holdings, Inc.",purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+3829,2020,07/20/2020,2020-06-18,self,CRM,Salesforce.com Inc,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+4044,2020,10/04/2020,2020-09-03,self,CRWD,"CrowdStrike Holdings, Inc. - Class A",purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+4970,2022,10/14/2022,2022-09-16,self,GOOG,Alphabet Inc - Class C capital stock. Excercised 200 call options purchased 12/17/21 (20k shares) at $100 strike with expiry of 9/16/22,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+4971,2022,10/14/2022,2022-09-16,self,MU,"Miron Technology Inc - Sold 100 call options purchased 12/21/21 (10K shares) at strike of $1.84 for a total loss of $392,575",sale_full,"$15,001 - $50,000",Hon. Nancy Pelosi,CA12,False
+4972,2022,10/14/2022,2022-09-16,self,NVDA,"NVIDIA Corporation - Sold 50 Call options purchased 7/23/21 (5K shares) at strike of $26.86 for loss of $361,476",sale_full,"$1,001 - $15,000",Hon. Nancy Pelosi,CA12,False
+4973,2022,10/14/2022,2022-09-16,self,DIS,Walt Disney Company - 50 Call options bought 12/17/21 with strike of $130 an expiration of 9/16/22 expired with no value,sale_full,"$1,001 - $15,000",Hon. Nancy Pelosi,CA12,False
+5305,2022,06/03/2022,2022-05-13,self,AAPL,Apple Inc - 100 Call options strike of $80 expires 3/17/23,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+5306,2022,06/03/2022,2022-05-24,self,AAPL,Apple Inc - 50 Call options strike of $80 expires 6/16/23,purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+5307,2022,06/03/2022,2022-05-24,self,MSFT,Microsoft Corporation - 10 Call options strike of $180 expires 6/16/23,purchase,"$50,001 - $100,000",Hon. Nancy Pelosi,CA12,False
+5308,2022,06/03/2022,2022-05-24,self,MSFT,Microsoft Corporation - 40 Call options strike of $180 expires 6/16/23,purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+6524,2021,01/21/2021,2020-12-22,self,AB,"AllianceBernstein Holding plc Purchsed 20,000 shares",purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+6525,2021,01/21/2021,2020-12-22,self,AAPL,Apple Inc. Purchased 100 call options with a strike price of $100 and an expiration date of 1/21/22.,purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+6526,2021,01/21/2021,2020-12-22,self,TSLA,Tesla Inc. Purchased 25 call options with a strike price of $500 and an expiration date of 3/18/22.,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+6527,2021,01/21/2021,2020-12-22,self,DIS,The Walt Disney Company. Purchased 100 call options with a strike price of $100 and an expiration date of 1/21/22.,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+6891,2020,03/03/2020,2020-01-21,self,--,"REOF XX, LLC",purchase,"$50,001 - $100,000",Hon. Nancy Pelosi,CA12,False
+6936,2020,02/11/2020,2020-01-16,self,AMZN,"Amazon.com, Inc. / Exercised 30 call options (3,000 shares) expiring 1/17/2020 at a strike price of $1600.",purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+6937,2020,02/11/2020,2020-01-16,self,AMZN,"Amazon.com, Inc. / Sold 20 call options with a strike price of $1,700 and an expiration date of 1/17/20.",sale_full,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+6938,2020,02/11/2020,2020-01-16,self,AMZN,"Amazon.com, Inc. / Sold 20 call options with a strike price of $1,600 and an expiration date of 1/17/20.",sale_full,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+6939,2020,02/11/2020,2020-01-16,self,FB,"Facebook, Inc. - Class A / Exercised 30 call options (3,000 shares) expiring 1/17/20 at a strike price of $140.",purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+6940,2020,02/11/2020,2020-01-16,self,FB,"Facebook, Inc. - Class A / Exercised 20 call options (2,000 shares) expiring 1/17/20 at a strike price of $150.",purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+7162,2022,03/21/2022,2022-03-17,self,TSLA,Tesla Inc - Exercised 25 Call options 2.5K shares expiring 3/18/22 @ $500,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+8970,2022,05/03/2022,2022-04-11,self,WBD,Warner Bros Discovery In - Series A - 2419 shares received as result of spinoff AT&T shares held,exchange,"$50,001 - $100,000",Hon. Nancy Pelosi,CA12,False
+9114,2021,08/20/2021,2021-07-23,self,NVDA,"NVIDIA Corporation - purchased 5,000 shares",purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+9115,2021,08/20/2021,2021-07-23,self,NVDA,NVIDIA Corporation - Purchased 50 Call options with strike of $100 for 9/16/2022,purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+9116,2021,08/20/2021,2021-07-13,self,--,REOF XXII LLC,purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+9117,2021,08/20/2021,2021-07-22,self,WORK,"Slack Technologies Inc - Class A - 10,000 shares exchanged for 776 shares of CRM as result of merged with payout of $267,900",sale_full,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+10829,2022,07/14/2022,2022-06-17,self,AAPL,Apple Inc - 50 CALL options @ $100 expiry 06/17/22,sale_partial,"$100,001 - $250,000",Hon. Nancy Pelosi,CA12,False
+10830,2022,07/14/2022,2022-06-17,self,NVDA,NVIDIA Corporation - Excercised 200 CALL options (20K shares) @ $100 expiry 06/17/22,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+10831,2022,07/14/2022,2022-06-21,self,V,Visa Inc - Sold 10K shares,sale_partial,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+10911,2022,09/09/2022,2022-08-24,self,--,"REOF XX, LLC - additional investment in LLC with acq 5 courtyard Marriott hotels",purchase,"$15,001 - $50,000",Hon. Nancy Pelosi,CA12,False
+11254,2022,01/12/2022,2021-12-30,self,AAPL,Apple Inc - Contribution of 3K shares held personally to the Paul F Pelosi Endowed Fund Georgetown University,sale_partial,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+11255,2022,01/12/2022,2021-12-30,self,AAPL,Apple Inc - Contribution of 3K shares held personally to Trinity College,sale_partial,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+11536,2021,12/29/2021,2021-12-17,self,GOOG,Alphabet Inc - Class C Capital - 10 CALL opts with strike of $2000 expiry 9/16/22,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+11537,2021,12/29/2021,2021-12-21,self,MU,Micron Technology Inc - 100 CALL opts with strike of $50 expiry 9/16/22,purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+11538,2021,12/29/2021,2021-12-22,self,--,"REOF XX LLC - addtional invesment in LLC which acquired 5 Courtyard Mariott hotels in Fairfax VA (1), Baltimore, MD (2), and San Antonio, TX(2)",purchase,"$50,001 - $100,000",Hon. Nancy Pelosi,CA12,False
+11539,2021,12/29/2021,2021-12-20,self,RBLX,Roblox Corporation Class A - 100 CALL options with strike $100 expiry 1/20/23,purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+11540,2021,12/29/2021,2021-12-20,self,CRM,Salesforce.com Inc - 100 CALL options with strike $210 expiry 1/20/23,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+11541,2021,12/29/2021,2021-12-20,self,CRM,Salesforce.com Inc - 30 CALL options with strike $210 expiry 1/20/23,purchase,"$100,001 - $250,000",Hon. Nancy Pelosi,CA12,False
+11542,2021,12/29/2021,2021-12-17,self,DIS,Walt Disney Company - 50 CALL options with strike $210 expiry 1/20/23,purchase,"$100,001 - $250,000",Hon. Nancy Pelosi,CA12,False
+12245,2021,07/02/2021,2021-06-18,self,GOOGL,Alphabet Inc - Class A,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+12246,2021,07/02/2021,2021-05-21,,AMZN,Amazon.com Inc,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+12247,2021,07/02/2021,2021-05-21,self,AAPL,Apple Inc,purchase,"$100,001 - $250,000",Hon. Nancy Pelosi,CA12,False
+12248,2021,07/02/2021,2021-06-03,self,NVDA,NVIDIA Corporation,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+13805,2022,07/26/2022,2022-07-26,self,NVDA,"NVIDIA Corporation - Sold 25K shares at 165.05 for total loss of $341,365",sale_full,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+13833,2020,12/10/2020,2020-11-06,self,AAPL,Apple Inc.,sale_partial,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+13834,2020,12/10/2020,2020-11-05,self,--,"REOF XX, LLC",purchase,"$15,001 - $50,000",Hon. Nancy Pelosi,CA12,False
+13941,2022,02/28/2022,2022-01-27,self,AB,AllianceBerstein Holding LP - Purchased 10K units,purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+13942,2022,02/28/2022,2022-01-21,self,AXP,American Express Company - Excercised 50 call options (5k shares) expiring 01/21/22 @ $80,purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+13943,2022,02/28/2022,2022-01-21,self,AAPL,Apple Inc - Excercised 100 Call options (10K shares) expiry 01/21/2022 @ $100,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+13944,2022,02/28/2022,2022-01-21,self,PYPL,PayPal Holdings Inc - Exercised 50 call options (5k shares) expiry 1/21/2022 at $100,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+13945,2022,02/28/2022,2022-01-21,self,DIS,Walt Disney Company - Exercised 100 Call options (10k shares) expiry 01/21/2022 at $100,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+14043,2020,06/09/2020,2020-05-08,self,AAPL,Apple Inc.,sale_partial,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,True
+14044,2020,06/09/2020,2020-05-08,self,AAPL,Apple Inc.,sale_partial,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,True
+14045,2020,06/09/2020,2020-05-08,self,AAPL,Apple Inc.,sale_partial,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,True
+14046,2020,06/09/2020,2020-05-08,self,FB,"Facebook, Inc. - Class A",sale_partial,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,True
+14047,2020,06/09/2020,2020-05-08,self,IBKR,"Interactive Brokers Group, Inc. - Class A",sale_partial,"$100,001 - $250,000",Hon. Nancy Pelosi,CA12,True
+14048,2020,06/09/2020,2020-05-08,self,MORN,"Morningstar, Inc.",sale_partial,"$100,001 - $250,000",Hon. Nancy Pelosi,CA12,True
+14049,2020,06/09/2020,2020-04-28,self,--,"REoF XX, llC",purchase,"$15,001 - $50,000",Hon. Nancy Pelosi,CA12,False
+14050,2020,06/09/2020,2020-05-08,self,V,Visa Inc.,sale_partial,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,True
+14051,2020,06/09/2020,2020-05-08,self,V,Visa Inc.,sale_partial,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,True
+14761,2020,04/01/2020,2020-02-27,self,GOOGL,Alphabet Inc. - Class A,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+14762,2020,04/01/2020,2020-02-28,self,MSFT,Microsoft Corporation,purchase,"$100,001 - $250,000",Hon. Nancy Pelosi,CA12,False
+14763,2020,04/01/2020,2020-02-20,self,MSFT,Microsoft Corporation,purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False
+14764,2020,04/01/2020,2020-02-21,self,MSFT,Microsoft Corporation,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+14765,2020,04/01/2020,2020-02-20,self,WORK,"Slack Technologies, Inc. Class A",purchase,"$250,001 - $500,000",Hon. Nancy Pelosi,CA12,False

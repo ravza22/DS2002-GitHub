@@ -1,0 +1,106 @@
+,disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,type,amount,representative,district,cap_gains_over_200_usd
+441,2021,03/02/2021,2021-02-08,self,GOOGL,Alphabet Inc - Class A,sale_full,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,False
+553,2021,02/04/2021,2021-01-15,self,GOOGL,Alphabet Inc. - Class A,sale_partial,"$1,001 - $15,000",None Kathy Manning,NC06,True
+554,2021,02/04/2021,2021-01-15,,GOOGL,Alphabet Inc. - Class A,sale_partial,"$1,001 - $15,000",None Kathy Manning,NC06,True
+555,2021,02/04/2021,2021-01-15,,GOOG,Alphabet Inc. - Class C Capital Stock,sale_partial,"$1,001 - $15,000",None Kathy Manning,NC06,True
+705,2021,07/15/2021,2021-06-09,joint,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+898,2020,04/09/2020,2020-03-27,,GOOGL,Alphabet Inc. - Class A,purchase,"$15,001 - $50,000",Hon. John Curtis,UT03,False
+994,2021,03/16/2021,2021-02-16,,GOOGL,Alphabet Inc - Class A,sale_full,"$1,001 - $15,000",Mr. Peter Meijer,MI03,True
+995,2021,03/16/2021,2021-02-16,,GOOG,Alphabet Inc Class C,sale_full,"$15,001 - $50,000",Mr. Peter Meijer,MI03,True
+1266,2020,10/16/2020,2020-10-09,--,GOOGL,Alphabet Inc. - Class A,sale_full,"$15,001 - $50,000",Hon. John Curtis,UT03,False
+1807,2020,03/10/2020,2020-03-04,self,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,False
+1883,2022,06/02/2022,2022-05-10,,GOOGL,Alphabet Inc Class B,sale_full,"$1,001 - $15,000",Hon. Kurt Schrader,OR05,False
+1983,2022,03/07/2022,2022-02-11,self,GOOGL,Alphabet Inc - Class A,purchase,"$15,001 - $50,000",Hon. Earl Blumenauer,OR03,False
+2295,2020,05/09/2020,2020-04-27,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_full,"$1,001 - $15,000",Hon. Donald Sternoff Beyer,VA08,False
+2355,2021,03/10/2021,2021-02-17,joint,GOOG,Alphabet Inc Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+2736,2021,12/13/2021,2021-11-03,joint,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+2801,2020,10/09/2020,2020-09-23,,GOOGL,Alphabet Inc. - Class A,purchase,"$1,001 - $15,000",Hon. Dean Phillips,MN03,False
+2802,2020,10/09/2020,2020-09-23,,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Dean Phillips,MN03,False
+2854,2021,02/23/2021,2021-01-28,,GOOGL,Alphabet Inc Class A,sale_partial,"$1,001 - $15,000",Mr. Peter Meijer,MI03,True
+3176,2020,04/16/2020,2020-03-18,--,GOOGL,Alphabet Inc. - Class A,purchase,"$1,001 - $15,000",Hon. Gilbert Cisneros,CA39,False
+3177,2020,04/16/2020,2020-03-18,--,GOOG,Alphabet Inc. - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Gilbert Cisneros,CA39,False
+3709,2022,04/01/2022,2022-03-14,,GOOGL,Alphabet Inc - Class A,sale_full,"$1,001 - $15,000",Hon. Earl Blumenauer,OR03,False
+3779,2020,07/20/2020,2020-02-28,--,GOOGL,Alphabet Inc. - Class A,purchase,"$1,001 - $15,000",Hon. Richard W. Allen,GA12,False
+3977,2021,08/24/2021,2021-07-07,self,GOOG,Alphabet Inc - Class C Capital Stock,sale_full,"$1,001 - $15,000",Hon. Ed Perlmutter,CO07,False
+4047,2020,05/31/2020,2020-05-01,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_full,"$1,001 - $15,000",Hon. Donald Sternoff Beyer,VA08,False
+4833,2020,02/22/2020,2020-01-13,joint,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Donald Sternoff Beyer,VA08,False
+4834,2020,02/22/2020,2020-01-28,joint,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Donald Sternoff Beyer,VA08,False
+4909,2020,02/22/2020,2020-02-19,joint,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Donald Sternoff Beyer,VA08,False
+4970,2022,10/14/2022,2022-09-16,self,GOOG,Alphabet Inc - Class C capital stock. Excercised 200 call options purchased 12/17/21 (20k shares) at $100 strike with expiry of 9/16/22,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+4995,2021,10/08/2021,2020-04-17,self,GOOG,Alphabet Inc - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Cindy Axne,IA03,False
+4996,2021,10/08/2021,2019-05-31,self,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Cindy Axne,IA03,False
+4997,2021,10/08/2021,2020-04-17,self,GOOG,Alphabet Inc - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Cindy Axne,IA03,False
+4998,2021,10/08/2021,2019-05-31,self,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Cindy Axne,IA03,False
+4999,2021,10/08/2021,2020-04-17,,GOOGL,Alphabet Inc - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Cindy Axne,IA03,False
+5000,2021,10/08/2021,2019-05-31,,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Cindy Axne,IA03,False
+5363,2020,04/05/2020,2020-02-20,,GOOGL,Alphabet Inc. - Class A,sale_full,"$1,001 - $15,000",Hon. Mikie Sherrill,NJ11,False
+5364,2020,04/05/2020,2020-02-20,,GOOG,Alphabet Inc. - Class C Capital Stock,sale_full,"$1,001 - $15,000",Hon. Mikie Sherrill,NJ11,False
+5568,2020,04/11/2020,2020-03-23,self,GOOGL,Alphabet Inc. - Class A,sale_full,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,False
+5653,2020,08/09/2020,2020-07-14,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_full,"$15,001 - $50,000",Hon. Donald Sternoff Beyer,VA08,False
+5845,2020,03/11/2020,2020-03-04,self,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,False
+5923,2021,02/17/2021,2021-01-04,self,GOOG,Alphabet - Google,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+6232,2021,07/06/2021,2021-06-22,,GOOGL,Alphabet Inc Class A,sale_full,"$1,001 - $15,000",Hon. John Curtis,UT03,False
+6444,2021,02/03/2021,2021-01-27,self,GOOGL,Alphabet Inc. - Class A (Spouse retirement portfolio),purchase,"$1,001 - $15,000",Hon. Earl Blumenauer,OR03,False
+6625,2020,05/29/2020,2020-04-03,self,GOOGL,Alphabet Inc. - Class A,purchase,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,False
+6626,2020,05/29/2020,2020-04-03,self,GOOGL,Alphabet Inc. - Class A,purchase,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,False
+6730,2021,04/30/2021,2021-04-27,self,GOOGL,Alphabet Inc Class A,purchase,"$15,001 - $50,000",Hon. Deborah K. Ross,NC02,False
+6737,2022,02/06/2022,2022-02-02,,GOOGL,Alphabet Inc - Class A,purchase,"$15,001 - $50,000",Hon. Bob Gibbs,OH07,False
+7087,2020,10/05/2020,2020-09-08,,GOOGL,Alphabet Inc. - Class A,purchase,"$15,001 - $50,000",Hon. K. Michael Conaway,TX11,False
+7395,2020,12/29/2020,2020-11-19,joint,GOOG,Alphabet,purchase,"$15,001 - $50,000",Hon. Kenny Marchant,TX24,False
+7471,2020,12/29/2020,2020-11-19,,GOOG,Alphabet,purchase,"$15,001 - $50,000",Hon. Kenny Marchant,TX24,False
+7534,2021,05/06/2021,2021-04-30,,GOOGL,Alphabet Inc Class A,sale_partial,"$1,001 - $15,000",Hon. Kathy Manning,NC06,False
+7667,2022,04/08/2022,2022-03-21,joint,GOOGL,Alphabet Inc,purchase,"$15,001 - $50,000",Hon. Scott Franklin,FL15,False
+7742,2021,07/17/2021,2021-03-04,,GOOG,Alphabet Inc Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Blake Moore,UT01,False
+7743,2021,07/17/2021,2021-02-04,,GOOG,Alphabet Inc Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Blake Moore,UT01,False
+7744,2021,07/17/2021,2021-02-25,,GOOG,Alphabet Inc Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Blake Moore,UT01,False
+8161,2020,07/29/2020,2019-12-31,self,GOOGL,Alphabet Inc. - Class A,purchase,"$1,001 - $15,000",Hon. Joe Courtney,CT02,False
+8231,2020,09/20/2020,2020-08-03,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+8398,2021,04/21/2021,2021-03-16,joint,GOOG,Alphabet Inc Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+8458,2021,04/21/2021,2021-03-05,,GOOGL,Alphabet Inc Class A,sale_partial,"$1,001 - $15,000",Hon. John A. Yarmuth,KY03,False
+8597,2021,08/15/2021,2021-06-04,self,GOOGL,Alphabet Inc - Class A,sale_partial,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,False
+8660,2021,09/13/2021,2021-08-19,,GOOGL,Alphabet inc - Class A,sale_partial,"$1,001 - $15,000",Hon. David B. McKinley,WV01,False
+9962,2021,10/14/2021,2021-09-16,self,GOOGL,Alphabet Inc Class A,sale_full,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,False
+9995,2021,04/27/2021,2021-03-17,,GOOGL,Alphabet Inc - Class A,purchase,"$1,001 - $15,000",Hon. William R. Keating,MA09,False
+10419,2022,09/10/2022,2022-08-10,,GOOG,Alphabet Inc -  Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,False
+10449,2022,01/27/2022,2022-01-14,self,GOOG,Alphabet Inc - Class C Capital Stock,sale_partial,"$15,001 - $50,000",Hon. Alan S. Lowenthal,CA47,False
+10451,2022,01/27/2022,2022-01-14,joint,GOOG,Alphabet Inc - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,False
+10464,2020,10/12/2020,2020-06-24,,GOOGL,Alphabet Inc. - Class A,purchase,"$1,001 - $15,000",Hon. John A. Yarmuth,KY03,False
+10733,2020,12/03/2020,2020-10-22,self,GOOGL,Alphabet Inc. - Class A,sale_full,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,False
+10734,2020,12/03/2020,2020-10-22,self,GOOGL,Alphabet Inc. - Class A,sale_full,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,False
+10783,2020,12/03/2020,2020-10-21,,GOOGL,Alphabet Inc. - Class A,sale_partial,"$1,001 - $15,000",Hon. Dwight Evans,PA03,False
+10985,2021,09/15/2021,2021-07-30,joint,GOOGL,Alphabet Inc Class A,purchase,"$100,001 - $250,000",Hon. Kevin Hern,OK01,False
+11036,2022,04/17/2022,2022-03-09,joint,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+11375,2022,03/03/2022,2022-02-28,joint,GOOG,Alphabet Inc - Class C Capital Stock,sale_full,"$15,001 - $50,000",Hon. Donald Sternoff Beyer,VA08,False
+11461,2021,02/19/2021,2021-01-20,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_full,"$15,001 - $50,000",Mrs. Marjorie Taylor Greene,GA14,True
+11462,2021,02/19/2021,2021-01-20,self,GOOG,Alphabet Inc. - Class C Capital Stock,sale_full,"$1,001 - $15,000",Mrs. Marjorie Taylor Greene,GA14,True
+11536,2021,12/29/2021,2021-12-17,self,GOOG,Alphabet Inc - Class C Capital - 10 CALL opts with strike of $2000 expiry 9/16/22,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+11848,2020,07/09/2020,2020-06-26,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,True
+11849,2020,07/09/2020,2020-06-22,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+12085,2020,12/28/2020,2020-11-10,self,GOOGL,Alphabet Inc. - Class A,sale_partial,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,False
+12245,2021,07/02/2021,2021-06-18,self,GOOGL,Alphabet Inc - Class A,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,False
+12275,2021,05/07/2021,2021-04-16,joint,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+12276,2021,05/07/2021,2021-04-15,joint,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+12277,2021,05/07/2021,2021-04-09,joint,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+12489,2020,08/27/2020,2020-08-07,self,GOOGL,Alphabet Inc. - Class A,sale_full,"$1,001 - $15,000",Hon. Joe Courtney,CT02,False
+12626,2020,12/09/2020,2020-11-20,joint,GOOGL,Alphabet Inc. - Class A,sale_full,"$1,001 - $15,000",Hon. Joseph D. Morelle,NY25,True
+12659,2021,10/13/2021,2021-09-28,joint,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+12756,2021,06/25/2021,2021-05-11,self,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Ed Perlmutter,CO07,False
+12926,2020,01/02/2020,2019-12-23,joint,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Donald Sternoff Beyer,VA08,False
+13142,2022,03/04/2022,2022-02-11,,GOOGL,Alphabet Inc - Class A,purchase,"$1,001 - $15,000",Hon. James R. Langevin,RI02,False
+13307,2020,05/15/2020,2020-04-30,,GOOGL,Alphabet Inc. - Class A,purchase,"$1,001 - $15,000",Hon. David B. McKinley,WV01,False
+13308,2020,05/15/2020,2020-04-30,joint,GOOGL,Alphabet Inc. - Class A,purchase,"$1,001 - $15,000",Hon. David B. McKinley,WV01,False
+13676,2021,11/18/2021,2021-10-28,joint,GOOGL,Alphabet Inc -  Class A,sale_full,"$15,001 - $50,000",Hon. Kim Dr Schrier,WA08,False
+13706,2022,08/29/2022,2022-07-20,,GOOG,Alphabet Inc - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+13707,2022,08/29/2022,2022-07-27,,GOOG,Alphabet Inc Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+14154,2021,07/04/2021,2021-06-24,joint,GOOG,Alphabet Inc - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Donald Sternoff Honorable Beyer,VA08,False
+14574,2020,10/13/2020,2020-09-25,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+14575,2020,10/13/2020,2020-09-21,joint,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+14761,2020,04/01/2020,2020-02-27,self,GOOGL,Alphabet Inc. - Class A,purchase,"$500,001 - $1,000,000",Hon. Nancy Pelosi,CA12,False
+14855,2020,05/07/2020,2020-04-02,,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Dean Phillips,MN03,False
+15259,2021,07/09/2021,2021-05-11,,GOOGL,Alphabet Inc - Class A,sale_partial,"$1,001 - $15,000",Hon. Dwight Evans,PA03,False
+15478,2020,05/13/2020,2020-04-17,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+15479,2020,05/13/2020,2020-04-30,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+15600,2020,04/15/2020,2020-03-23,joint,GOOGL,Alphabet Inc. - Class A,purchase,"$15,001 - $50,000",Hon. David B. McKinley,WV01,False
+15601,2020,04/15/2020,2020-03-09,,GOOGL,Alphabet Inc. - Class A,purchase,"$1,001 - $15,000",Hon. David B. McKinley,WV01,False
+15626,2020,06/10/2020,2020-05-22,joint,GOOG,Alphabet Inc. - Class C Capital Stock,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,False
+15662,2020,06/10/2020,2020-04-22,self,GOOGL,Alphabet Inc. - Class A,sale_full,"$1,001 - $15,000",Hon. Ed Perlmutter,CO07,False

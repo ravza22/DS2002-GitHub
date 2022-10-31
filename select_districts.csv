@@ -1,0 +1,209 @@
+,disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,type,amount,representative,district,cap_gains_over_200_usd
+23,2022,10/18/2022,2022-09-08,,--,Harris County TX 5%,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+24,2022,10/18/2022,2022-09-08,,--,Main Mun Bd BK 5% 09/01/27,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+25,2022,10/18/2022,2022-09-14,,--,New York St 5% 06/15/27,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+26,2022,10/18/2022,2022-09-09,,--,Utility Debt NY 5% 12/15/29,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+27,2022,07/28/2022,2022-06-16,,ACAD,ACADIA Pharmaceuticals Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+28,2022,07/28/2022,2022-06-21,,AGNC,AGNC Investment Corp,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+29,2022,07/28/2022,2022-06-16,,ALLK,Allakos Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+30,2022,07/28/2022,2022-06-16,,PLAN,Anaplan Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+31,2022,07/28/2022,2022-06-16,,ASB,Associated Banc-Corp,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+32,2022,07/28/2022,2022-06-16,,BCEL,Atreca Inc - Class A,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+33,2022,07/28/2022,2022-06-16,,AXSM,Axsome Therapeutics Inc,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+34,2022,07/28/2022,2022-06-16,,SQ,Square Inc Class A Common Stock,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+35,2022,07/28/2022,2022-06-21,,BRMK,Broadmark Realty Capital Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+36,2022,07/28/2022,2022-06-16,,CPE,Callon Petroleum Company,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+37,2022,07/28/2022,2022-06-21,,SAVA,Cassava Sciences Inc,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+38,2022,07/28/2022,2022-06-16,,CDEV,Centennial Resource Development Inc - Class A,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+39,2022,07/28/2022,2022-06-21,,CIVI,Civitas Resources inc,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+40,2022,07/28/2022,2022-06-21,,CTRA,Coterra Energy Inc,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+41,2022,07/28/2022,2022-06-16,,UUUU,Energy Fuels Inc Ordinary Shares,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+42,2022,07/28/2022,2022-06-16,,EXPE,Expedia Group Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+43,2022,07/28/2022,2022-06-21,,FNB,FNB Corporation,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+44,2022,07/28/2022,2022-06-21,,FHN,First Horizon Corporation,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+45,2022,07/28/2022,2022-06-21,,GNKOQ,Geneco Shipping & Trading Limited,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+46,2022,07/28/2022,2022-06-16,,GNK,Geneco Shipping & Trading Limited Ordinary Shares,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+47,2022,07/28/2022,2022-06-16,,GEVO,Geco Inc,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+48,2022,07/28/2022,2022-06-16,,HD,Home Depot inc,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+49,2022,07/28/2022,2022-06-21,,IIPR,Innovative Industrial Properties Inc,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+50,2022,07/28/2022,2022-06-21,,KRG,Kite Realty Group Trust,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+51,2022,07/28/2022,2022-06-16,,KOS,Kosmos Energy Ltd Common Shares,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+52,2022,07/28/2022,2022-06-16,,MAC,Macerich Company,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+53,2022,07/28/2022,2022-06-16,,NBR,Nabors Industries Ltd,sale_partial,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+54,2022,07/28/2022,2022-06-30,,--,New York St 5%,purchase,"$250,001 - $500,000",Hon. Christopher L. Jacobs,NY27,False
+55,2022,07/28/2022,2022-06-16,,NEX,NexTier Oilfield Solutions Inc,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+56,2022,07/28/2022,2022-06-16,,NAT,Nordic American Tankers Limited,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+57,2022,07/28/2022,2022-06-21,,NWBI,Northwest Bancshares Inc,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+58,2022,07/28/2022,2022-06-21,,OCFC,OceanFirst Financial Corp,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+59,2022,07/28/2022,2022-06-16,,OCGN,Ocugen Inc,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+60,2022,07/28/2022,2022-06-16,,PTEN,Patterson-UTI Energy Inc,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+61,2022,07/28/2022,2022-06-21,,DOC,Physicians Realty Trust Common Shares of Beneficial Interest,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+62,2022,07/28/2022,2022-06-16,,RC,Ready Capital Corporation,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+63,2022,07/28/2022,2022-06-16,,RC,Ready Capital Corporation,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+64,2022,07/28/2022,2022-06-16,,RWT,Redwood Trust Inc,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+65,2022,07/28/2022,2022-06-21,,SBRA,"Sabra Health Care REIT, INC",purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+66,2022,07/28/2022,2022-06-21,,STNG,Scorpio Tankers Inc Common Shares,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+67,2022,07/28/2022,2022-06-16,,TELL,Tellurian Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+68,2022,07/28/2022,2022-06-21,,RTL,The Necessity Retail REIT - Class A,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+69,2022,07/28/2022,2022-06-21,,UBSI,United Bankshares Inc,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+70,2022,07/28/2022,2022-06-16,,UEC,Uranium Energy Corp,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+71,2022,07/28/2022,2022-06-21,,VTRSV,Viatris Inc - Common Stock When Issued,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+72,2022,07/28/2022,2022-06-16,,VTRSV,Viatris Inc - Common Stock When Issued,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+489,2022,02/18/2022,2022-01-31,,--,Massachusetts St Hlth & Eductn VAR RT 07/01/2035 DD 06/01/00,sale_full,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+490,2022,02/18/2022,2022-01-31,,--,Monroe Cnty Ny Indl 5.000% 07/01/28,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+491,2022,02/18/2022,2022-01-31,,--,Univ of Michgan MI VAR RT 04/01/2023 DD 03/01/12,sale_full,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+755,2021,10/25/2021,2021-09-22,,--,New York ST Dorm Authority Revenues 5% 07/01/2026 DD 04/22/15,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+826,2021,02/10/2021,2020-12-28,,ASMB,"Assembly Biosciences, Inc.",purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+827,2021,02/10/2021,2020-12-28,,RETA,"Reata Pharmaceuticals, Inc. -Class A",purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+828,2021,02/10/2021,2020-12-28,,SRNE,"Sorrento Therapeutics, Inc.",purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+1216,2022,06/23/2022,2022-05-09,,--,New York City NY 5.000%,sale_full,"$100,001 - $250,000",Hon. Christopher L. Jacobs,NY27,False
+1217,2022,06/23/2022,2022-05-17,,--,New York City NY 5.000%,sale_full,"$100,001 - $250,000",Hon. Christopher L. Jacobs,NY27,False
+1218,2022,06/23/2022,2022-05-10,,--,Washington ST 5.000%,purchase,"$250,001 - $500,000",Hon. Christopher L. Jacobs,NY27,False
+2021,2021,06/01/2021,2021-04-15,,VAR,Varian Medical Systems Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+2211,2022,03/18/2022,2022-02-15,,AMD,Advanced Micro Devices Inc,exchange,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+2212,2022,03/18/2022,2022-02-04,,--,New York NY 5% 06/15/2027,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+2213,2022,03/18/2022,2022-02-25,,--,New York ST 5% 03/15/2027,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+2214,2022,03/18/2022,2022-02-17,,--,New York St 5% 07/01/2022,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+3679,2021,09/03/2021,2021-06-18,,--,California St 5% 03/01/2026 DD 03/18/15,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+3680,2021,09/03/2021,2021-07-01,,DTM,DT Midstream Inc,exchange,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+3681,2021,09/03/2021,2021-01-19,,--,Monroe Cnty NY Indl DEV corp R 5% 07/01/2025 DD 06/24/15,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+3682,2021,09/03/2021,2021-02-25,,--,Nassau Cnty NY Interim FIN AUT 4% 11/15/2033 DD 02/17/2021,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+3683,2021,09/03/2021,2021-07-16,,--,New York City NY Transitional 5% 07/15/2033 DD 07/22/21,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+3684,2021,09/03/2021,2021-03-17,,--,New York City NY Transitional 5% 11/01/2025 DD 11/05/15,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+3685,2021,09/03/2021,2021-03-19,,--,New York St Dorm Auth St Perso 5% 03/15/2034 DD 03/15/21,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+3686,2021,09/03/2021,2021-07-15,,--,New York St Thruway Auth 5% 01/01/2025 DD 02/06/14,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+3687,2021,09/03/2021,2021-01-21,,--,Port Authority of New York & New jersey 5% 07/15/2032 DD 02/05/2021,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+3688,2021,09/03/2021,2021-07-15,,--,Sales Tax asset receivable Cor 5% 10/15/2026 DD 10/15/14,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+3689,2021,09/03/2021,2021-06-23,,--,San Antonio Tx WTR Revenue 5% 05/15/2033 DD 07/13/2021,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+3690,2021,09/03/2021,2021-02-03,,--,UTAH ST 5% 07/01/2030 DD 02/27/2020,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+3691,2021,09/03/2021,2021-02-01,,--,VIRGINIA ST CLG BLDG AUTH EDUC 5% 02/01/2029 DD 12/21/17,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+4639,2022,05/19/2022,2022-04-11,,PLAN,Annplan Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4640,2022,05/19/2022,2022-04-11,,AR,Antero Resources Corporation,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4641,2022,05/19/2022,2022-04-11,,CPE,Callon Petroleum Company,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4642,2022,05/19/2022,2022-04-11,,CDEV,"Centennial Resource Development, Inc - Class A",purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4643,2022,05/19/2022,2022-04-11,,UUUU,Energy Fuels Inc Ordinary Shares,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4644,2022,05/19/2022,2022-04-11,,KOS,Kosmos Energy Ltd Common Shares,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4645,2022,05/19/2022,2022-04-11,,NBR,Nabors Industries Ltd,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4646,2022,05/19/2022,2022-04-11,,NEX,NexTier Oilfield Solutions Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4647,2022,05/19/2022,2022-04-11,,PTEN,Patterson-URI Energy Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4648,2022,05/19/2022,2022-04-11,,PTON,Peleton Interactive Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4649,2022,05/19/2022,2022-04-11,,SM,SM Energy Company,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4650,2022,05/19/2022,2022-04-11,,TELL,Tellurian Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4651,2022,05/19/2022,2022-04-11,,UBER,Uber Technologies Inc,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4652,2022,05/19/2022,2022-04-11,,UEC,Uranium Energy Corp,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4653,2022,05/19/2022,2022-04-11,,DIS,Walt Disney Company,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4654,2022,05/19/2022,2022-04-11,,WYNN,Wynn Resorts Limited,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+4655,2022,05/19/2022,2022-04-11,,Z,Zillow Group Inc - Class C Capital Stock,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+5923,2021,02/17/2021,2021-01-04,self,GOOG,Alphabet - Google,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5924,2021,02/17/2021,2021-01-04,self,AAPL,Apple,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5925,2021,02/17/2021,2021-01-04,self,ARW,"Arrow Electronics, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5926,2021,02/17/2021,2021-01-04,self,ASMB,"Assembly Biosciences, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+5927,2021,02/17/2021,2021-01-04,self,BAC,Bank of America Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5928,2021,02/17/2021,2021-01-04,self,BRK.B,Berkshire Hathaway Inc. New,sale_partial,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,True
+5929,2021,02/17/2021,2021-01-04,self,BIIB,Biogen Inc.,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5930,2021,02/17/2021,2021-01-04,self,CCEP,Coca-Cola European Partners,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5931,2021,02/17/2021,2021-01-04,self,CMP,Compass Minerals Intl Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5932,2021,02/17/2021,2021-01-04,self,COP,ConocoPhillips,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5933,2021,02/17/2021,2021-01-04,self,ECL,Ecolab Inc.,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5934,2021,02/17/2021,2021-01-04,self,F,Ford Motor Company,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5935,2021,02/17/2021,2021-01-04,self,HD,Home Depot Inc.,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5936,2021,02/17/2021,2021-01-04,self,HRL,Hormel Foods Corporation,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5937,2021,02/17/2021,2021-01-04,self,IBM,International Business Machines,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5938,2021,02/17/2021,2021-01-04,self,JNJ,Johnson & Johnson,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5939,2021,02/17/2021,2021-01-04,self,LB,"L Brands, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5940,2021,02/17/2021,2021-01-04,self,MTB,M&T Bank Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5941,2021,02/17/2021,2021-01-04,self,MCD,McDonald's Corporation,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5942,2021,02/17/2021,2021-01-04,self,MSI,"Motorola Solutions, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5943,2021,02/17/2021,2021-01-04,self,PG,Proctor & Gamble Company,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5944,2021,02/17/2021,2021-01-04,self,PRU,Prudential Financial,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5945,2021,02/17/2021,2021-01-04,self,PSA,Public Storage,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5946,2021,02/17/2021,2021-01-04,self,RETA,"Reata Pharmaceuticals, Inc - Class A stock",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+5947,2021,02/17/2021,2021-01-04,self,RSG,Republic Services,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5948,2021,02/17/2021,2021-01-04,self,SRNE,"Sorrento Therapeutics, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+5949,2021,02/17/2021,2021-01-04,self,STT,State Street Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5950,2021,02/17/2021,2021-01-04,self,TFC,Truist Financial Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5951,2021,02/17/2021,2021-01-04,self,UNH,UnitedHealth Group Incorporated - Common Stock,sale_partial,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,True
+5952,2021,02/17/2021,2021-01-04,self,VFC,V. F. Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+5953,2021,02/17/2021,2021-01-04,self,WMT,Walmart Inc.,sale_partial,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,True
+5954,2021,02/17/2021,2021-01-04,self,WM,"Waste Management, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+6462,2022,09/26/2022,2022-08-26,,--,El Paso Tex Wtr & SW 5% 03/01/33,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+6463,2022,09/26/2022,2022-08-24,,--,New York ST Urban 5% 3/15/2027,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+9892,2020,11/06/2020,2020-09-08,,ACAD,ACADIA Pharmaceuticals Inc.,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9893,2020,11/06/2020,2020-09-08,,MO,"Altria Group, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9894,2020,11/06/2020,2020-09-08,,AAPL,Apple Inc.,sale_partial,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,True
+9895,2020,11/06/2020,2020-09-08,,T,AT&T Inc.,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9896,2020,11/06/2020,2020-09-08,,BAND,Bandwidth Inc. - Class A,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9897,2020,11/06/2020,2020-09-08,,BRK.B,Berkshire Hathaway Inc. New,sale_partial,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,True
+9898,2020,11/06/2020,2020-09-08,,BXP,"Boston Properties, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9899,2020,11/06/2020,2020-09-08,,CVX,Chevron Corporation,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,True
+9900,2020,11/06/2020,2020-09-08,,STZ,"Constellation Brands, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9901,2020,11/06/2020,2020-09-08,,XOM,Exxon Mobil Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9902,2020,11/06/2020,2020-09-08,,F,Ford Motor Company,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9903,2020,11/06/2020,2020-09-08,,HD,"Home Depot, Inc.",sale_partial,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,True
+9904,2020,11/06/2020,2020-09-08,,INO,"Inovio Pharmaceuticals, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9905,2020,11/06/2020,2020-09-08,,JNJ,Johnson & Johnson,sale_partial,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,True
+9906,2020,11/06/2020,2020-09-08,,MTB,M&T bank Corporation,sale_partial,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,True
+9907,2020,11/06/2020,2020-09-08,,NWL,Newell Brands Inc.,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9908,2020,11/06/2020,2020-09-08,,SPG,"Simon Property Group, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9909,2020,11/06/2020,2020-09-08,,STT,State Street Corporation,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9910,2020,11/06/2020,2020-09-08,,SNX,Synnex Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9911,2020,11/06/2020,2020-09-08,,TGTX,"TG Therapeutics, Inc.",sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9912,2020,11/06/2020,2020-09-08,,UNH,UnitedHealth Group Incorporated Common Stock,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+9913,2020,11/06/2020,2020-09-25,,MNTA,"Momenta Pharmaceuticals, Inc.",sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,True
+10847,2021,08/13/2021,2021-06-29,,AQB,AquaBounty Technologies Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10848,2021,08/13/2021,2021-06-29,,CDEV,"Centennial Resource Development, Inc - Class A",purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10849,2021,08/13/2021,2020-12-20,,LBRDA,Liberty Broadband Corporation Class A,exchange,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10850,2021,08/13/2021,2020-10-02,,--,Lower Colorado River Tx AUTH 5% 05/15/2028,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10851,2021,08/13/2021,2020-10-28,,--,Maine ST Municipal Bond Bank 5% 09/01/2027,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10852,2021,08/13/2021,2020-12-28,,--,Minnesota St 5% 08/01/2031 DD 08/25/20,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10853,2021,08/13/2021,2020-11-04,,--,New York NY 5% 08/01/2024 DD 12/19/13,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10854,2021,08/13/2021,2020-11-09,,--,New York NY 5% 08/01/2034 DD 10/15/20,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10855,2021,08/13/2021,2020-12-17,,--,New York ST Environmental FACS COR 5% 06/15/2025 DD 07/02/15,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10856,2021,08/13/2021,2020-10-28,,--,North Carolina ST LTD OBLIG 5% 05/01/2028 DD 11/12/20,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+10912,2022,09/09/2022,2022-07-18,,AR,Antero Resources Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10913,2022,09/09/2022,2022-07-18,,ASBC,Associated Banc-Corp,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10914,2022,09/09/2022,2022-07-18,,ATHA,Athira Pharma Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10915,2022,09/09/2022,2022-07-18,,SAVA,Cassava Sciences Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10916,2022,09/09/2022,2022-07-18,,CDEV,Centennial Resource Development Inc - Class A,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10917,2022,09/09/2022,2022-07-11,,--,Central Puget WA 5% 11/01/31,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10918,2022,09/09/2022,2022-07-18,,CVX,Chevron Corporation,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10919,2022,09/09/2022,2022-07-18,,CIVI,Civitas Resources Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10920,2022,09/09/2022,2022-07-18,,CRGY,Cresent Energy Company Class A,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10921,2022,09/09/2022,2022-07-13,,--,Dallas Ft Worth Tx 5% 11/01/39,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10922,2022,09/09/2022,2022-07-18,,ESTE,Earthstone Energy Inc Class A,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10923,2022,09/09/2022,2022-07-18,,ENOB,Enochian Biosciences Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10924,2022,09/09/2022,2022-07-18,,XOM,Exxon Mobil Corporation,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10925,2022,09/09/2022,2022-07-18,,FHN,First Horizon Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10926,2022,09/09/2022,2022-07-18,,GNKOQ,Genco Shipping & Trading Limited,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10927,2022,09/09/2022,2022-07-18,,GEVO,Gevo Inc,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10928,2022,09/09/2022,2022-07-18,,HD,Home Depot Inc,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10929,2022,09/09/2022,2022-07-18,,IIPR,Innovative Industrial Properties Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10930,2022,09/09/2022,2022-07-18,,NOTV,Inotiv Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10931,2022,09/09/2022,2022-07-18,,ISEE,IVERIC bio Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10932,2022,09/09/2022,2022-07-18,,KRG,Kite Realty Group Trust,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10933,2022,09/09/2022,2022-07-18,,KOD,Kodiak Sciences inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10934,2022,09/09/2022,2022-07-15,,--,Massachusetts ST 5% 10/01/38,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10935,2022,09/09/2022,2022-07-05,,--,Minnesota ST 5% 08/01/31,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10936,2022,09/09/2022,2022-07-14,,--,New York NY 5% 07/15/33,sale_full,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+10937,2022,09/09/2022,2022-07-22,,--,New York NY City 5% 06/15/30,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+10938,2022,09/09/2022,2022-07-01,,--,New York ST Dorm 5% 02/15/38,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+10939,2022,09/09/2022,2022-07-06,,--,North Carolina ST 5% 05/01/28,sale_full,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+10940,2022,09/09/2022,2022-07-18,,PFE,Pfizer Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10941,2022,09/09/2022,2022-07-18,,DOC,Physicians Realty Trust Common Shares of Beneficial Interest,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10942,2022,09/09/2022,2022-07-18,,PLUG,Plug Power Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10943,2022,09/09/2022,2022-07-13,,--,San Antonio TX 0.00001% 8/15/28,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+10944,2022,09/09/2022,2022-07-18,,STNG,Scorpio Tankers Inc Common Shares,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10945,2022,09/09/2022,2022-07-18,,SI,Silvergate Capital Corporation,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10946,2022,09/09/2022,2022-07-18,,SM,SM Energy Company,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10947,2022,09/09/2022,2022-07-18,,TELL,Tellurian Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10948,2022,09/09/2022,2022-07-18,,TSLA,Tesla Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10949,2022,09/09/2022,2022-07-08,,--,Triborough Brdg NY 5% 05/15/37,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+10950,2022,09/09/2022,2022-08-17,,USBI,United Bankshares Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10951,2022,09/09/2022,2022-07-05,,--,Utah ST 5% 07/01/30,sale_full,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+10952,2022,09/09/2022,2022-07-18,,VTNR,Vertex Energy Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10953,2022,09/09/2022,2022-07-18,,VTRSV,Viatris Inc. - Common Stock When Issued,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+10954,2022,09/09/2022,2022-07-14,,--,Virginia College 5% 02/01/29,sale_full,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,False
+10973,2021,07/08/2021,2021-05-26,,FFG,FBL Financial Group Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,False
+12790,2021,12/02/2021,2021-10-20,,--,Central Puget WA 5% Due 11/01/2031,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+15257,2021,09/14/2021,2021-08-05,,--,New York City NY Transitional 5% 11/01/2027 DD 08/17/21,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
+15258,2021,09/14/2021,2021-08-03,,--,New York St Dorm Auth Sales Tx 5% 03/15/2026 DD 09/29/16,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,False
